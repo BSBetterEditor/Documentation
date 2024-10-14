@@ -12,3 +12,5 @@
 ## Support
 - For support you can either send me a dm (futuremapper on discord, @Futuremapper_ on twitter)
 - Or you can join the discord for the mod https://discord.gg/YKkCutTFE5
+
+<span style="color:blue">some *blue* text</span>.
