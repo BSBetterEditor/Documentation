@@ -1,0 +1,6 @@
+[book]
+authors = ["FutureMapper"]
+language = "en"
+multilingual = false
+src = "src"
+title = "EditorEX Mapper & Developer Guide"
