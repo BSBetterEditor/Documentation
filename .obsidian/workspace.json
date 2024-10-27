@@ -164,11 +164,18 @@
   "active": "18ea67308a80a9d7",
   "lastOpenFiles": [
     "favicon.svg",
+    "image2vector (5).svg",
+    "Logo/light.svg",
+    "Logo/image2vector (2).svg",
+    "Logo/dark - Copy.svg",
+    "Logo/dark.svg",
+    "Logo/image2vector.svg",
+    "Logo",
+    "New folder",
     "images/checks-passed.png",
     "images/hero-dark.svg",
     "images/hero-light.svg",
     "logo/light.svg",
-    "logo/dark.svg",
     "introduction.mdx",
     "quickstart.mdx",
     "development.mdx",
@@ -177,8 +184,6 @@
     "essentials/reusable-snippets.mdx",
     "essentials/code.mdx",
     "api-reference/endpoint/create.mdx",
-    "api-reference/endpoint/delete.mdx",
-    "api-reference/endpoint/get.mdx",
     "api-reference/endpoint/Untitled.md",
     "README.md",
     "src/Information.md",
@@ -193,9 +198,6 @@
     "src/Locomotion.md",
     "src/Lighting.md",
     "src/Mirror.md",
-    "src/findvrms.md",
-    "book/FontAwesome/fonts/fontawesome-webfont.svg",
-    "book/favicon.svg",
-    "book/favicon.png"
+    "src/findvrms.md"
   ]
 }
